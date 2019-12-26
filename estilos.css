@@ -14,3 +14,9 @@ p{
   font-size: 2em;
   text-align: center;
 }
+.container{
+  display: grid;
+  padding: 2em;
+  margin: 0 auto;
+  border: 1px #00ff22 solid;
+}
